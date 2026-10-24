@@ -61,8 +61,8 @@ hydra -h
 ### 2. Clone the repository
 
 ```bash
-git clone ---------------
-cd 
+git clone https://github.com/assassin222/hydra_wrapper.git
+cd hydra_wrapper
 ```
 
 ### 3. Make the script executable
